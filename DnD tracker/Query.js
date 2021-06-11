@@ -1,7 +1,6 @@
 ﻿// QUERY SELECTOR GETER
 // © Michael Paulsen 2019 - 2021
 function Query() {
-    console.log();
     let obj = {}; 
     obj.querys = location.search.split('?')[1].split('&');
     for (let x = 0; x < obj.querys.length; x++) {
