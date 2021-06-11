@@ -1,0 +1,9 @@
+{
+  "name": "dn-d-tracker",
+  "version": "0.0.0",
+  "description": "DnD tracker",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
